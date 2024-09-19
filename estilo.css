@@ -1,0 +1,13 @@
+body {
+    background: rgb(0, 0, 0);
+    color: #00afe4;
+}
+
+.principal {
+    background: #000000;
+}
+
+.segunda{
+    background: #ffffff;
+    color: rgb(0, 57, 107);
+}
